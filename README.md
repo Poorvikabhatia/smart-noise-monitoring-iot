@@ -1,7 +1,7 @@
-# Smart Noise Monitoring & Control System (IoT-Based)
+# Smart Noise Monitoring & Alert System (IoT-Based)
 
 ## 📌 Overview
-This project is an IoT-based Smart Noise Monitoring and Control System designed to maintain silence in noise-sensitive environments such as libraries, study rooms, hospitals, and offices. It detects excessive noise in real time and provides instant alerts to help reduce disturbances and improve productivity.
+This project is an IoT-based Smart Noise Monitoring and Allert System designed to maintain silence in noise-sensitive environments such as libraries, study rooms, hospitals, and offices. It detects excessive noise in real time and provides instant alerts to help reduce disturbances and improve productivity.
 
 ---
 
@@ -88,7 +88,7 @@ The system uses the **Blynk IoT platform** for:
 ---
 
 ## 🎥 Demo
-👉 [https://drive.google.com/file/d/1ZJ_UcEPYbmZlmDbDu0Y-Q-Ra1JmqQVuO/view?usp=sharing]
+👉 [https://drive.google.com/file/d/1sNCtxA6lfW4N-ad0AGTdwtBNDjKRRTUx/view?usp=sharing]
 
 ---
 
